@@ -141,16 +141,6 @@
             "type": "shell"
         },
         {
-            "item": "Install Zoom",
-            "version": "5.11.6.9890",
-            "url": "https://zoom.us/client/${version}/zoomusInstallerFull.pkg",
-            "filename": "Zoom.pkg",
-            "dmg-installer": "",
-            "dmg-advanced": "",
-            "hash": "1fbd1204a85bc65404795901bc845364fc5ef5aa70e35657521251c4ae859cfd",
-            "type": "pkg"
-        },
-        {
             "item": "remove pybobjc",
             "version": "",
             "url": "resources/remove-pyobjc.sh",
